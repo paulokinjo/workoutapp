@@ -7,6 +7,8 @@
     "noEmit": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
     "strict": true
   }
 }
